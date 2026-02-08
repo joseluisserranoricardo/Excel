@@ -35,8 +35,10 @@ Mejores Suscriptores: Filtrado específico de clientes recurrentes con suscripci
 
 ![mejores](https://github.com/user-attachments/assets/aa96957b-8d0c-4139-a2f3-ec68ee41ab0e)
 
-🛠️ Herramientas Utilizadas
+## 🛠️ Herramientas Utilizadas
+
 Microsoft Excel:
+
 Tablas Dinámicas.
 
 Complemento "Análisis de Datos" (Data Analysis Toolpak).
